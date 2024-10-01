@@ -1,5 +1,8 @@
 # Notas de aula
 
+Notas (não acabadas) de probabilidade e concentração de medida.
+
+
 
 ---
 
