@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: prob.aux
+The style file: alpha.bst
+Database file #1: references.bib
+Warning--entry type for "geogebra" isn't style-file defined
+--line 195 of file references.bib
+Warning--empty journal in keith-stirling
+You've used 27 entries,
+            2543 wiz_defined-function locations,
+            699 strings with 7728 characters,
+and the built_in function-call counts, 8477 in all, are:
+= -- 783
+> -- 371
+< -- 20
++ -- 117
+- -- 115
+* -- 502
+:= -- 1467
+add.period$ -- 95
+call.type$ -- 27
+change.case$ -- 139
+chr.to.int$ -- 27
+cite$ -- 28
+duplicate$ -- 412
+empty$ -- 678
+format.name$ -- 160
+if$ -- 1725
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 48
+newline$ -- 141
+num.names$ -- 81
+pop$ -- 221
+preamble$ -- 1
+purify$ -- 184
+quote$ -- 0
+skip$ -- 278
+stack$ -- 0
+substring$ -- 222
+swap$ -- 26
+text.length$ -- 20
+text.prefix$ -- 19
+top$ -- 0
+type$ -- 124
+warning$ -- 1
+while$ -- 63
+width$ -- 31
+write$ -- 350
+(There were 2 warnings)
