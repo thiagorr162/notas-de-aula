@@ -1,7 +1,8 @@
 # Notas de aula
 
-Notas (não acabadas) de probabilidade e concentração de medida.
+Notas (não acabadas) de **Probabilidade** e **Concentração de medida**.
 
+Autor: Thiago Rodrigo Ramos
 
 
 ---
